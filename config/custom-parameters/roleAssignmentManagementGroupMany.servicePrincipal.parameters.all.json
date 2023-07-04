@@ -4,8 +4,8 @@
   "parameters": {
     "parManagementGroupIds": {
       "value": [
-        "alz-platform-connectivity",
-        "alz-platform-identity"
+        "bsv5-platform-connectivity",
+        "bsv5-platform-identity"
       ]
     },
     "parRoleDefinitionId": {
